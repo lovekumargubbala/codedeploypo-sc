@@ -5,3 +5,7 @@ wget https://bucket-name(replace the name based on your region).s3.amazonaws/lat
 https://docs.aws.amazon.com/codedeploy/latest/userguide/resource-kit.html#resource-kit-bucket-names
 
 
+#sample file for codedeploy through s3
+https://s3.us-west-2.amazonaws.com/aws-codedeploy-us-west-2/samples/latest/SampleApp_Linux.zip
+
+
