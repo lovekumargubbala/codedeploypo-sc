@@ -1,0 +1,7 @@
+# link for download the code deploy agent
+wget https://bucket-name(replace the name based on your region).s3.amazonaws/latest/install
+
+# resource kit bucket names by regions
+https://docs.aws.amazon.com/codedeploy/latest/userguide/resource-kit.html#resource-kit-bucket-names
+
+
